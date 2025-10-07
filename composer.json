@@ -1,15 +1,15 @@
 {
-    "name": "leanmind/php-boilerplate",
+    "name": "turitop/php-boilerplate",
 
     "autoload": {
         "psr-4": {
-            "LeanMind\\": "src/"
+            "TuriTop\\": "src/"
         }
     },
 
     "autoload-dev": {
         "psr-4": {
-            "LeanMind\\Tests\\": "tests/"
+            "TuriTop\\Tests\\": "tests/"
         }
     },
 

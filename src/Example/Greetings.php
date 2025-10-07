@@ -1,6 +1,6 @@
 <?php
 
-namespace LeanMind\Example;
+namespace TuriTop\Example;
 
 class Greetings
 {

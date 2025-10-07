@@ -3,5 +3,5 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: leanmind-phpunit
+    container_name: turitop-phpunit
     command: test

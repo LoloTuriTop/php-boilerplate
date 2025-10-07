@@ -1,8 +1,8 @@
 <?php
 
-namespace LeanMind\Tests\Example;
+namespace TuriTop\Tests\Example;
 
-use LeanMind\Example\Greetings;
+use TuriTop\Example\Greetings;
 use PHPUnit\Framework\Attributes\Test;
 use PHPUnit\Framework\TestCase;
 
